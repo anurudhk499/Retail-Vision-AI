@@ -1,0 +1,10 @@
+streamlit
+ultralytics
+opencv-python-headless
+cvzone
+filterpy
+scipy
+numpy
+pandas
+plotly
+streamlit-option-menu
