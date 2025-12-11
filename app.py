@@ -1,4 +1,4 @@
-# app.py - RetailVision AI (updated: stop-demo option + reset counts on new run)
+
 import os
 import tempfile
 import math
@@ -532,8 +532,5 @@ else:
 
 # ----------------------------- Footer -----------------------------
 st.markdown("---")
-f1, f2 = st.columns(2)
-with f1:
-    st.markdown("**RetailVision AI** — Minimal edition")
-with f2:
-    st.markdown("Made with ❤️ · Streamlit + YOLOv8")
+
+
