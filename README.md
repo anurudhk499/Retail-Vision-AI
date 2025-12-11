@@ -38,7 +38,7 @@ Built using YOLO models, Streamlit, and OpenCV, the tool is lightweight and easy
 - Footfall visualization
 - Simple, clean analytics
 
-### 🏗️ Tech Stack
+### Tech Stack
 UI Framework:	Streamlit<br>
 Computer Vision:	YOLO + OpenCV<br>
 Programming Language:	Python<br>
