@@ -39,14 +39,14 @@ Built using YOLO models, Streamlit, and OpenCV, the tool is lightweight and easy
 - Simple, clean analytics
 
 ### 🏗️ Tech Stack
-UI Framework:	Streamlit
-Computer Vision:	YOLO + OpenCV
-Programming Language:	Python
-Visualization:	Streamlit Charts
-Deployment:	Streamlit Cloud / Local
+UI Framework:	Streamlit<br>
+Computer Vision:	YOLO + OpenCV<br>
+Programming Language:	Python<br>
+Visualization:	Streamlit Charts<br>
+Deployment:	Streamlit Cloud / Local<br>
 
-###📁 Project Structure
-"""text
+### 📁 Project Structure
+'''text
 RetailVision/
 │── app.py
 │── counter_app.py
