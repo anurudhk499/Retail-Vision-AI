@@ -4,7 +4,7 @@ RetailVision is an AI-powered application that uses real-time computer vision to
 
 ### The Business Value:
 #### Real-World Use Cases:
- Retail (Walmart/IKEA): They use this to calculate "Conversion Rate." If 1,000 people walked in (detected by your AI) but only 100 bought something, they know they have a problem.
+ Retail (Walmart/IKEA): They use this to calculate "Conversion Rate." If 1,000 people walked in (detected by AI) but only 100 bought something, they know they have a problem.
   
 ### 🚀 Overview
 RetailVision provides an interactive interface where users can:<br>
